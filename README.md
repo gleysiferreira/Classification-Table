@@ -10,7 +10,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [x] CSS
 - [x] JavaScript
 
-Resultado: 
+Resultado: https://gleysiferreira.github.io/Classification-Table/
 
 
 ## 🤝 Colaboradores
